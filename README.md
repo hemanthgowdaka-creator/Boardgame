@@ -56,4 +56,4 @@ This web application displays lists of board games and their reviews. While anyo
 Trying with github webhook trigger in M2 batch.
 
 
-triggering webhook
+triggering webhook in m10 batch
